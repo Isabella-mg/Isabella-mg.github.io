@@ -1,0 +1,27 @@
+*{
+    font-family: "Assistant", sans-serif;
+}
+header{
+    background-color: #735D78;
+}
+header span{
+    color: #F7D1CD;
+}
+.nav-item a{
+    color: #F7D1CD;
+}
+/*Link visitado*/
+.nav-item a:visited{
+    color: #F7D1CD;
+}
+.nav-item a:hover{
+    color: #D1B3C4;
+}
+#nav-button{
+    background-color: #D1B3C4;
+}
+.bi{
+    color: #D1B3C4;
+    font-size: 2em;
+}
+
