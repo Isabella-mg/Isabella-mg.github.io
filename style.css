@@ -20,8 +20,25 @@ header span{
 #nav-button{
     background-color: #D1B3C4;
 }
-.bi{
+.icon-habilidades{
     color: #D1B3C4;
     font-size: 2em;
 }
-
+.img-proyecto1{
+    background-image: url('assets/img-proyecto1.png');
+    opacity: 0.6;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+footer{
+    background-color: #735D78;
+}
+footer .icon-footer i{
+    color: #D1B3C4;
+}
+footer p{
+    color: #D1B3C4;
+}
+footer p a{
+    color: #D1B3C4;
+}
