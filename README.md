@@ -4,7 +4,7 @@
 Proyecto creado durante le bootcamp de Tecnolochicas PRO, es adaptable a distintos dispositivos o tamaños de pantalla.
 El propósito de está página web es mostrar mi portafolio de proyectos como desarrolladora web. 😄
 
-Puedes ver aqui mi portafolio [Portafolio](https://isabella-mg.github.io/).
+Puedes ver aqui mi [Portafolio](https://isabella-mg.github.io/).
 
 ### Tecnologías 
 
